@@ -40,7 +40,7 @@ theme = "hugo-elate-theme"
   # Hero section
   [params.hero]
     title = "Our Promises"
-    subtitle = 'You Can Bet We Keep Them <a  target="_blank"></a>'
+    subtitle = 'We Keep Them <a  target="_blank"></a>'
  
   # Intro section
   # Available icons: http://simplelineicons.com/
