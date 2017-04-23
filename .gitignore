@@ -34,5 +34,5 @@ node_modules
 .env
 .note
 # ignore /public
-public
+
 
