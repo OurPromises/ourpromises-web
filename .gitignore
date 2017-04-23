@@ -35,5 +35,4 @@ node_modules
 .note
 # ignore /public
 public
-# ignore /themes
-themes
+
