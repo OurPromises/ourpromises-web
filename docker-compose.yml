@@ -4,7 +4,7 @@ services:
     image: netlify/build
     env_file: .env
     volumes:
-      - ./code/website:/opt/repo
+      - ./:/opt/repo
     working_dir: /opt/repo
     ports: 
       - 1313:1313
